@@ -79,7 +79,7 @@ Login → Home → Input → Rating → Questions → Result → Save → Histor
 
 ---
 
-## ⚠️Setup Instructions
+## Setup Instructions
 
 This project uses Firebase Authentication.
 
@@ -94,6 +94,6 @@ To run:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Ryan Neshar  
