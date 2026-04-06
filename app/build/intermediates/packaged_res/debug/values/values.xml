@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mood_options">
+        <item>Select your mood...</item>
+        <item>Motivated</item>
+        <item>Tired</item>
+        <item>Stressed</item>
+        <item>Neutral</item>
+        <item>Excited</item>
+    </string-array>
+    <string name="app_name">DecideX</string>
+    <string name="gcm_defaultSenderId" translatable="false">1016413088648</string>
+    <string name="google_api_key" translatable="false">AIzaSyCo94D3kY7BE9OtGqiDQt6GpOwvFBkadIE</string>
+    <string name="google_app_id" translatable="false">1:1016413088648:android:6ac592b98ec6c6df11e83d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCo94D3kY7BE9OtGqiDQt6GpOwvFBkadIE</string>
+    <string name="google_storage_bucket" translatable="false">decidex-4f139.firebasestorage.app</string>
+    <string name="project_id" translatable="false">decidex-4f139</string>
+    <style name="Theme.DecideX" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorPrimaryVariant">#3700B3</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#03DAC5</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>

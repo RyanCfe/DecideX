@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\layout_activity_rating.xml.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\layout\\activity_rating.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\layout_activity_question.xml.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\layout\\activity_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\layout_activity_file_reader.xml.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\layout\\activity_file_reader.xml"
+    },
+    {
+        "merged": "com.example.decidex.app-merged_res-33:/layout_activity_history.xml.flat",
+        "source": "com.example.decidex.app-main-35:/layout/activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\layout_activity_input.xml.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\layout\\activity_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ryann\\.gradle\\daemon\\8.4\\com.example.decidex.app-main-35:\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

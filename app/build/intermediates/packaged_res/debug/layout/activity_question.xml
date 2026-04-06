@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/tvStep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Step 3: Answer Questions"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"/>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvStep"
+        android:layout_marginTop="8dp"
+        android:max="3"
+        android:progress="0"/>
+
+    <!-- Goal question -->
+    <TextView
+        android:id="@+id/tvGoalLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/progressBar"
+        android:text="What is your main goal?"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"/>
+
+    <LinearLayout
+        android:id="@+id/llGoal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/tvGoalLabel"
+        android:layout_marginTop="8dp">
+
+        <Button
+            android:id="@+id/btnProductivity"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="4dp"
+            android:layout_weight="1"
+            android:text="Productivity"
+            android:textSize="11sp" />
+
+        <Button
+            android:id="@+id/btnRelaxation"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Relaxation"
+            android:textSize="12sp"
+            android:layout_marginEnd="4dp"/>
+
+        <Button
+            android:id="@+id/btnHealth"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Health"
+            android:textSize="12sp"/>
+    </LinearLayout>
+
+    <!-- Mood Spinner (Practical 2 - Spinner + string-array) -->
+    <TextView
+        android:id="@+id/tvMoodLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/llGoal"
+        android:text="How are you feeling right now?"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"/>
+
+    <Spinner
+        android:id="@+id/spinnerMood"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvMoodLabel"
+        android:layout_marginTop="8dp"
+        android:background="@android:drawable/btn_dropdown"
+        android:padding="8dp"/>
+
+    <!-- Urgency question -->
+    <TextView
+        android:id="@+id/tvUrgency"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spinnerMood"
+        android:text="How urgent is this decision?"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"/>
+
+    <LinearLayout
+        android:id="@+id/llUrgency"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/tvUrgency"
+        android:layout_marginTop="8dp">
+
+        <Button
+            android:id="@+id/btnUrgLow"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Low"
+            android:layout_marginEnd="4dp"/>
+
+        <Button
+            android:id="@+id/btnUrgMedium"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Medium"
+            android:layout_marginEnd="4dp"/>
+
+        <Button
+            android:id="@+id/btnUrgHigh"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="High"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnGetResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Get My Decision"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>
