@@ -92,8 +92,10 @@ To run:
 
 ---
 
----
-
 ## Author
 
 Ryan Neshar  
+
+--- 
+
+[Download Report](report/DecideX_Report.docx)
